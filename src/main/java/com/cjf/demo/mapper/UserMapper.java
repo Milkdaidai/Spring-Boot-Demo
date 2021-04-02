@@ -1,4 +1,4 @@
-package com.cjf.demo.dao;
+package com.cjf.demo.mapper;
 
 
 import com.cjf.demo.domain.User;

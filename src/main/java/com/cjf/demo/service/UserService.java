@@ -1,6 +1,6 @@
 package com.cjf.demo.service;
 
-import com.cjf.demo.dao.UserMapper;
+import com.cjf.demo.mapper.UserMapper;
 import com.cjf.demo.domain.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
